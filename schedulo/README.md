@@ -1,16 +1,42 @@
-# schedules
 
-A new Flutter project.
+# Schedule-O
 
-## Getting Started
+A Flutter app to schedule common day to day tasks.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 About Me
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Hi, I'm [Zuhaib Khan](https://instagram.com/lucifer.489) 👋, I am a Software Developer
+
+
+## Demo
+All the screenshots of app are shown below
+
+### Home page without any tasks
+A beautiful home page without any schedules. User can create new schedules by \
+clicking on top right `+ Create` button.
+![](https://raw.githubusercontent.com/adnankhanmgdp/flutter-projects/main/schedulo/demo/Vivo%20X80%20Pro_Screenshot_20221006222816.png)
+
+### Home Page
+Home page shows all the schedules user has created based on the priority.
+![](https://raw.githubusercontent.com/adnankhanmgdp/flutter-projects/main/schedulo/demo/Vivo%20X80%20Pro_Screenshot_20221006211623.png)
+
+### Add New Schedule
+On this page user can create schedules and add tasks to it with color cards
+![](https://raw.githubusercontent.com/adnankhanmgdp/flutter-projects/main/schedulo/demo/Vivo%20X80%20Pro_Screenshot_20221006211706.png)
+
+### Schedule Page
+Schedule page shows all the day tasks in timeline format.
+![](https://raw.githubusercontent.com/adnankhanmgdp/flutter-projects/main/schedulo/demo/Vivo%20X80%20Pro_Screenshot_20221006211636.png)
+
+### Demo Video
+![](https://github.com/adnankhanmgdp/flutter-projects/raw/main/schedulo/demo/mockup_video_AdobeExpress.gif)
+
+## Tech Stack
+
+**Framework:** Flutter/Dart
+
+**Database:** SQLite
+
+### Thank you for reading me.
