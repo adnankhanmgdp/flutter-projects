@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1084030868183",
+    "project_id": "schedulo-50a90",
+    "storage_bucket": "schedulo-50a90.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1084030868183:android:176e2dc76fead241952e92",
+        "android_client_info": {
+          "package_name": "com.example.schedules"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1084030868183-trs375i8fgvr78plsvqi0l475ff0h7jk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkw65lWSD5twrxyy_LvarIaQwHYIo2Lrk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1084030868183-trs375i8fgvr78plsvqi0l475ff0h7jk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
