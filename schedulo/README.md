@@ -31,7 +31,7 @@ Schedule page shows all the day tasks in timeline format.
 ![](https://raw.githubusercontent.com/adnankhanmgdp/flutter-projects/main/schedulo/demo/Vivo%20X80%20Pro_Screenshot_20221006211636.png)
 
 ### Demo Video
-<img src="https://github.com/adnankhanmgdp/flutter-projects/raw/main/schedulo/demo/mockup_video_AdobeExpress.gif" data-canonical-src="https://github.com/adnankhanmgdp/flutter-projects/raw/main/schedulo/demo/mockup_video_AdobeExpress.gif" width="200" height="400" />
+<img src="https://github.com/adnankhanmgdp/flutter-projects/raw/main/schedulo/demo/mockup_video_AdobeExpress.gif" data-canonical-src="https://github.com/adnankhanmgdp/flutter-projects/raw/main/schedulo/demo/mockup_video_AdobeExpress.gif" width="200" height="400" style="display: block;margin-left: auto;margin-right: auto;width: 50%;" />
 <!-- ![](https://github.com/adnankhanmgdp/flutter-projects/raw/main/schedulo/demo/mockup_video_AdobeExpress.gif) -->
 
 ## Tech Stack
